@@ -1,0 +1,9 @@
+0 Red Light
+1 Yellow Light
+2 Green Light
+3 Pedestrian
+4 Curve Road
+5 Yeild
+6 Stop Sign
+7 Speed Limit 15
+8 Speed Limit 30

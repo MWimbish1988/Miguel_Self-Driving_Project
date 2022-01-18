@@ -1,0 +1,36 @@
+1 set
+15
+green light
+stop sign
+red light
+
+set 2
+15
+person
+stop
+30
+green
+red
+
+set 3
+30
+person
+stop 
+15
+
+set 4
+stop 
+25
+person 
+red
+green
+40
+
+set 5
+stop
+green
+person
+15
+30
+
+cd OneDrive\Desktop\DeepPiCar\models\object_detection\code
